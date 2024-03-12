@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sahil Chambyal</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **Django, NextJS, Flutter**
+- 🌱 I’m currently learning **Django and NextJS**
 
-- 💬 Ask me about **JavaScript Frameworks**
+- 💬 Ask me about **Web Development and Machine Learning**
 
 - 📫 How to reach me **sahil.chambyal@lpu.in**
 
