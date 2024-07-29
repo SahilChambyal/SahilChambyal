@@ -5,7 +5,7 @@ h1 align="center">Hi 👋, I'm Sahil Chambyal</h1>
 
 - 🌱 I’m currently learning **NextJS, Expo, Express**
 
-- 📫 How to reach me **Sahil@gadgetgoblins.com**
+- 📫 How to reach me **sahil.chambyal@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
