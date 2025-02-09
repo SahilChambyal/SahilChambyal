@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sahil Chambyal</h1>
-<h3 align="center">Machine Learning Engineer</h3>
+<h3 align="center">Full-Stack and ML developer</h3>
 
-- 🔭 I’m currently working on **Qskip**
+- 🔭 I’m currently working on **Quantum-Hybrid-Algos**
 
-- 🌱 I’m currently learning **NextJS, Expo, Express**
+- 🌱 I’m currently learning **TensorFlow, Qscikit, NLP, Time-Series, Web-Development**
 
 - 📫 How to reach me **sahil.chambyal@outlook.com**
 
