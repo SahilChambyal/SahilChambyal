@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahil Chambyal</h1>
 <h3 align="center">Full-Stack and ML developer</h3>
 
-- 🔭 I’m currently working on **Quantum-Hybrid-Algos**
+- 🔭 I’m currently working on **Time-Series-Analysis**
 
 - 🌱 I’m currently learning **TensorFlow, Qscikit, NLP, Time-Series, Web-Development**
 
