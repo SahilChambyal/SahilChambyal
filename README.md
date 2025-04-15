@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahil Chambyal</h1>
-<h3 align="center">AI/ML ENGNIEER</h3>
+<h3 align="center">AI/ML ENGINEER</h3>
 
 - 🔭 I’m currently working on **Time-Series-Analysis**
 
