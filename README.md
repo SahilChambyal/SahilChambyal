@@ -5,7 +5,9 @@
 
 <!-- Typing Animation -->
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=🎯+Microsoft+Founder's+Hub+Member+($20%2C000+benefits);🔬+AI%2FML+%40+Quantrel+|+LLM+%26+Agentic+AI+Expert" alt="Typing SVG" /></a>
+  
+  ### 🚀 Top 0.5% in Amazon ML Challenge 2025 • 🎯 Microsoft Founder's Hub Member • 🔬 AI/ML @ Quantrel
+  
 </div>
 
 <br/>
@@ -13,6 +15,7 @@
 <!-- Profile Views & Socials -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sahilchambyal&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" alt="Profile Views"/>
+  &nbsp;
   <a href="https://sahilchambyal.com"><img src="https://img.shields.io/badge/🌐_Portfolio-SahilChambyal.com-6366F1?style=for-the-badge" alt="Portfolio"/></a>
 </div>
 
@@ -43,7 +46,7 @@
 ---
 
 <!-- About Section -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
+## 💫 About Me
 
 ```typescript
 const sahil = {
@@ -68,7 +71,7 @@ const sahil = {
 ---
 
 <!-- Tech Stack -->
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/Giphy.gif" width="30"> Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -87,7 +90,7 @@ const sahil = {
   <img src="https://skillicons.dev/icons?i=python,typescript,java,cpp,c,javascript" />
 </p>
 
-### 🛠️ Frameworks & Tools
+### 🧰 Frameworks & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,nestjs,graphql,tailwind" />
 </p>
@@ -97,7 +100,7 @@ const sahil = {
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,mongodb,mysql,postgres" />
 </p>
 
-### 🔧 DevOps & Others
+### ⚙️ DevOps & Others
 <p>
   <img src="https://skillicons.dev/icons?i=git,linux,docker,vscode,github" />
 </p>
@@ -107,7 +110,7 @@ const sahil = {
 ---
 
 <!-- Experience Section -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Experience
+## 💼 Experience
 
 <div align="center">
 <table>
@@ -130,7 +133,7 @@ const sahil = {
 ---
 
 <!-- Projects Section -->
-## <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 <table>
@@ -204,16 +207,20 @@ const sahil = {
 ---
 
 <!-- GitHub Stats -->
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="30"> GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahilchambyal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=ffffff"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilchambyal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=ffffff"/>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilchambyal&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=sahilchambyal&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak"/>
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sahilchambyal&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies"/>
@@ -261,7 +268,7 @@ const sahil = {
 ---
 
 <!-- Connect Section -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Let's Connect!
+## 🤝 Let's Connect!
 
 <div align="center">
   <a href="https://sahilchambyal.com">
@@ -287,7 +294,9 @@ const sahil = {
 
 <!-- Quote -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it.&author=Peter%20Drucker" />
+  
+  ### 💭 *"The best way to predict the future is to create it."* — Peter Drucker
+  
 </div>
 
 ---
@@ -295,9 +304,9 @@ const sahil = {
 <!-- Snake Animation -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahilchambyal/sahilchambyal/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sahilchambyal/sahilchambyal/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sahilchambyal/sahilchambyal/output/github-snake.svg" width="100%">
   </picture>
 </div>
 
