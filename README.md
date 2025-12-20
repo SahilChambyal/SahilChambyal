@@ -207,7 +207,7 @@ const sahil = {
 ---
 
 <!-- GitHub Stats -->
-## 📊 GitHub Analytics
+<!-- ## 📊 GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahilchambyal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=ffffff"/>
@@ -224,7 +224,7 @@ const sahil = {
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sahilchambyal&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies"/>
-</div>
+</div> -->
 
 ---
 
@@ -304,9 +304,9 @@ const sahil = {
 <!-- Snake Animation -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahilchambyal/sahilchambyal/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sahilchambyal/sahilchambyal/output/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sahilchambyal/sahilchambyal/output/github-snake.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SahilChambyal/SahilChambyal/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SahilChambyal/SahilChambyal/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SahilChambyal/SahilChambyal/output/github-snake.svg" width="100%">
   </picture>
 </div>
 
